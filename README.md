@@ -11,4 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 
+A simple cronometer developed to practice some react concepts.
+
 <img src="src/assets/cronometer.png">
